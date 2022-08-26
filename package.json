@@ -30,7 +30,7 @@
     "koa-ejs": "^4.3.0",
     "koa-json": "^2.0.2",
     "koa-json-error": "^3.1.2",
-    "mongoose": "^6.0.5",
+    "mongoose": "^6.4.6",
     "winston": "^3.3.3"
   },
   "devDependencies": {
